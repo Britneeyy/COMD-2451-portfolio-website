@@ -1,0 +1,30 @@
+        * {
+        font-family: Arial, Verdana, sans-serif;
+        color: #048e83;
+        box-sizing: border-box;}
+        
+        header h1 {
+        color: rgb(14, 13, 13); }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight:100
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: rgb(13, 13, 13);}
+
+        .row-color-1 {
+            background-color:rgb(4, 84, 142);
+        }
